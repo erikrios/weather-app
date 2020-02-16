@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="_26_u00b0">26°</string>
+    <string name="_20_u00b0">20°</string>
+    <string name="cerah">Cerah</string>
+    <string name="berawan">Berawan</string>
+    <string name="hujan">Hujan</string>
+    <string name="petir">Petir</string>
+    <string name="senin_16_januari_2020">Senin, 16 Januari 2020</string>
+</resources>
